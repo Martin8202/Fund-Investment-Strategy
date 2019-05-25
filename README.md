@@ -21,7 +21,7 @@
     *   適應性資產配置 (AAA)--利用動能挑選標的，以能極小化投資組合風險之權重組成的投資組合。<br>
 *   benchmark：以整段回測期間報酬為前 25% 的基金透過 equal weighting 所建立的投資組合。<br>
 
-<H2>File Description(由於牽扯專案內容，僅放上模型與視覺化code)</H2>
+<H2>File Description(由於牽扯專案內容，參數與程式有做修改，並僅放上策略與視覺化之code)</H2>
 
 * D06S03_Strategy_T：<br>
     1.五種策略之程式碼(R)
