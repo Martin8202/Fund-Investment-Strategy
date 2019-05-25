@@ -8,6 +8,7 @@
 ![image](https://github.com/Martin8202/Fund-Investment-Strategy/blob/master/%E7%A8%8B%E5%BC%8F%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 <H2>Introduction</H2>
+
 *   投資標的：境內資產池 + 境外資產池<br>
 *   回測期間：2004年12月31日 ~ 2018年10月26日<br>
 *   再平衡時間點：每季的最後一天(3月、6月、9月、12月)<br>
