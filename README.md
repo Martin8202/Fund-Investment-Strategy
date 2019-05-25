@@ -32,9 +32,9 @@
     
 <H2>Some Example</H2>
 
-*   策略使用之視覺化績效成果，請點選[這裡](https://github.com/Martin8202/Fund-Investment-Strategy/blob/master/%E7%B8%BE%E6%95%88%E7%B5%90%E6%9E%9C.pdf)
+*   策略使用之績效成果，請點選[這裡](https://github.com/Martin8202/Project_Fund_Investment_Strategy/blob/master/%E7%B8%BE%E6%95%88%E7%B5%90%E6%9E%9C.pdf)
 
-*   策略使用之視覺化成果，請點選[這裡](https://github.com/Martin8202/Fund-Investment-Strategy/blob/master/%E5%9C%96%E8%A1%A8%E6%95%B8%E6%93%9A%E5%B0%8D%E7%85%A7.pdf)
+*   策略使用之視覺化成果，請點選[這裡](https://github.com/Martin8202/Project_Fund_Investment_Strategy/blob/master/%E5%9C%96%E8%A1%A8%E6%95%B8%E6%93%9A%E5%B0%8D%E7%85%A7.pdf)
 
 
  
