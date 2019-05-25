@@ -29,16 +29,16 @@ if(anyNA(Tickers)==T)
 }
 
 # --- parameter
-NoS = c(1, length(Tickers))    # ¥Î¸ê²£¦À²ÄNoS[1]~²ÄNoS[2]ÀÉ°òª÷¶]µ¦²¤ 
+NoS = c(1, length(Tickers))    # ç”¨è³‡ç”¢æ± ç¬¬NoS[1]~ç¬¬NoS[2]æª”åŸºé‡‘è·‘ç­–ç•¥ 
 period <- 'quarters'           # frequency of rebalance
 SD = "2004-12-01"
 #ED = "2018-01-01"
 
-Top = 0.11                     # ¬D¸ê²£¦À¤¤°Ê¯à«eTop*100%ªº°òª÷
-top = 0.25                     # ¬D¸ê²£¦À¤¤¦^´ú´Á¶¡¥­§¡³ø¹S«eTop*100%ªº°òª÷: benchmark
-n_times = 0.5                  # n_times³æ¦ì (ex:¤ë=22) ªº¤Ñ¼Æ
-n.mom = n_times*22	           # length of momentum look back
-n.vol = n_times*22 	           # length of volatility look back
+Top = 0.20                     # æŒ‘è³‡ç”¢æ± ä¸­å‹•èƒ½å‰Top*100%çš„åŸºé‡‘
+top = 0.50                     # æŒ‘è³‡ç”¢æ± ä¸­å›žæ¸¬æœŸé–“å¹³å‡å ±é…¬å‰Top*100%çš„åŸºé‡‘: benchmark
+n_times = 0.5                  # n_timeså–®ä½ (ex:æœˆ=22) çš„å¤©æ•¸
+n.mom = n_times*30	           # length of momentum look back
+n.vol = n_times*30 	           # length of volatility look back
 
 # -------------------------------------- Data Processing ------------------------------------- #
 
