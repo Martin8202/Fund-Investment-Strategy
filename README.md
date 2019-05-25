@@ -5,7 +5,7 @@
 <H2>Project Flow Chart</H2>
 
 *   策略流程圖
-![image](https://github.com/Martin8202/Fund-Investment-Strategy/blob/master/%E7%A8%8B%E5%BC%8F%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+![image](https://github.com/Martin8202/Project_Fund_Investment_Strategy/blob/master/%E7%A8%8B%E5%BC%8F%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 <H2>Introduction</H2>
 
