@@ -5,7 +5,7 @@
 <H2>Project Flow Chart</H2>
 
 *   策略流程圖
-![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Modle%20Flow%20chart.jpg)
+![image](https://github.com/Martin8202/Fund-Investment-Strategy/blob/master/%E7%A8%8B%E5%BC%8F%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 <H2>Data</H2>
 
@@ -25,8 +25,7 @@
     
 <H2>Some Example</H2>
 
-*   推薦系統D
-![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/recommandation%20system_new.png)
+*   績效結果請點選![這裡](https://github.com/Martin8202/Fund-Investment-Strategy/blob/master/%E5%9C%96%E8%A1%A8%E6%95%B8%E6%93%9A%E5%B0%8D%E7%85%A7.pdf)
 
 
  
