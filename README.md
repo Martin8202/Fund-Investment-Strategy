@@ -27,8 +27,7 @@
     1.五種策略之程式碼(R)
 * D07S04_PlotData_T：<br>
     1.視覺化圖表之程式碼(R)
-* shiny：<br>
-    1.以shiny呈現之程式檔(R)
+
     
 <H2>Some Example</H2>
 
